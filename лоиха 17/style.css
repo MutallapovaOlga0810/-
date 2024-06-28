@@ -1,0 +1,39 @@
+
+header{
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin: 0 auto;
+    color: aliceblue;
+}
+*{
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color:aliceblue;
+}
+header a:hover{
+    color: palevioletred;
+}
+span span{
+    margin-right: 10px;
+}
+span span:hover{
+    color: rgba(128, 0, 128, 0.425);
+}
+ section{
+    background-image: url("magazin.jpg");
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+ } 
+ section p{
+    padding-top: 200px;
+    text-align: center;
+    color: aliceblue;
+ }
+ body{
+    background-color: rgb(194, 194, 194);
+ }

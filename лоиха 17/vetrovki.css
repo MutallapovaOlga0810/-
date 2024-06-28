@@ -1,0 +1,36 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    background-color: rgb(102, 141, 173);
+    border: 2px solid rgb(71, 157, 197);
+}
+*{box-sizing: border-box;}
+footer{
+    height: 50px;
+    background-color: rgb(102, 141, 173);
+    text-align: center;
+    padding-top: 5px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+nav{
+    margin-left: 100px;   
+}
+.p img{
+    width: 20%;
+    margin-left: 5px;
+}
+section{
+margin-left: 50%;
+margin-top: -450px;
+}
+section img{
+    width: 40%;
+    margin-left: 5px;
+}
+img:hover{
+    transform: scale(1.2);
+}

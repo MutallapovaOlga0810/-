@@ -1,0 +1,29 @@
+html{
+    font-size: 20px;
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+a{
+    color: black;
+    text-decoration: none;
+    border-bottom: 2px solid black;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("menyu.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+p{
+    color: aliceblue;
+    font-size: 4rem;
+    margin-top: 2rem;
+    margin-left:3rem;
+}
+p a {
+    margin-left: ;
+}
